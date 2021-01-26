@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f252058-476f-4393-8bd8-2f9fa3983603" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB001E01-371B-4ADC-A200-13E0AC763896/16/dfa04dc9/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlueBellUiElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlueBell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://O:/Unity/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://O:/Unity/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2FEAF16E-8000-4E0C-ADAE-3F2E05F2A3FA/ac/7e17dc6e/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2FEAF16E-8000-4E0C-ADAE-3F2E05F2A3FA/66/615a45e4/AsyncOperation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://O:/Unity/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlueBellScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UiHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConnectionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlueBellUiNotification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/SimpleJSON.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AddNewDevice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WindowGraph.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorReferenzes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2FEAF16E-8000-4E0C-ADAE-3F2E05F2A3FA/08/3ce13942/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlueBells.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlueBell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingsHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PanelLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Uihandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackendConnector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlueBellJson.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlueBellScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlueBellUiNotification.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UiHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AddNewDevice.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackendControler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BlueBellUiElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WindowGraph.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConnectionHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k3XIy68lIcdJxANtrxcRkFBzDU" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="23192">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="23192" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f252058-476f-4393-8bd8-2f9fa3983603" name="Default Changelist" comment="" />
+      <created>1604930173549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604930173549</updated>
+      <workItem from="1604930176972" duration="6121000" />
+      <workItem from="1605018402815" duration="9234000" />
+      <workItem from="1605274461456" duration="7662000" />
+      <workItem from="1605859835209" duration="194000" />
+      <workItem from="1605860205827" duration="613000" />
+      <workItem from="1609605934363" duration="6021000" />
+      <workItem from="1609677901099" duration="33000" />
+      <workItem from="1609678296644" duration="4000" />
+      <workItem from="1609678396665" duration="14718000" />
+      <workItem from="1609757128070" duration="11595000" />
+      <workItem from="1609778113584" duration="1915000" />
+      <workItem from="1609782488392" duration="1017000" />
+      <workItem from="1610023174356" duration="13859000" />
+      <workItem from="1610109834231" duration="9843000" />
+      <workItem from="1610466704940" duration="106000" />
+      <workItem from="1610466826270" duration="6004000" />
+      <workItem from="1610479215886" duration="138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/UiHandler.cs</url>
+          <line>59</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/UiHandler.cs" initialLine="59">
+            <startOffsets>
+              <option value="1687" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1753" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/DataModel.cs</url>
+          <line>36</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/DataModel.cs" initialLine="34">
+            <startOffsets>
+              <option value="905" />
+            </startOffsets>
+            <endOffsets>
+              <option value="951" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <reveal-manager>
+      <revealed-members>
+        <RevealItemInfo typeName="SimpleJSON.JSONArray" fieldName="AsArray" />
+      </revealed-members>
+    </reveal-manager>
+  </component>
+</project>

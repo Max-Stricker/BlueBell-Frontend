@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Max\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Max\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_BlueBell.-1791869122.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Max\Desktop\Unity\BlueBell" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CodeMonkey" t="Include">
+          <e p="Assets.cs" t="Include" />
+          <e p="CMDebug.cs" t="Include" />
+          <e p="MonoBehaviours" t="Include">
+            <e p="CameraFollow.cs" t="Include" />
+            <e p="CameraFollowSetup.cs" t="Include" />
+            <e p="ComponentActions.cs" t="Include" />
+            <e p="PositionRendererSorter.cs" t="Include" />
+          </e>
+          <e p="README.txt" t="Include" />
+          <e p="Utils" t="Include">
+            <e p="Button_Sprite.cs" t="Include" />
+            <e p="Button_UI.cs" t="Include" />
+            <e p="FunctionPeriodic.cs" t="Include" />
+            <e p="FunctionTimer.cs" t="Include" />
+            <e p="FunctionUpdater.cs" t="Include" />
+            <e p="UI_Bar.cs" t="Include" />
+            <e p="UI_BarMultiple.cs" t="Include" />
+            <e p="UI_Sprite.cs" t="Include" />
+            <e p="UI_TextComplex.cs" t="Include" />
+            <e p="UtilsClass.cs" t="Include" />
+            <e p="World_Bar.cs" t="Include" />
+            <e p="World_Mesh.cs" t="Include" />
+            <e p="World_Sprite.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="SimpleJSON.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AddNewDevice.cs" t="Include" />
+          <e p="BackendController.cs" t="Include" />
+          <e p="BlueBell.cs" t="Include" />
+          <e p="BlueBellScript.cs" t="Include" />
+          <e p="BlueBellUiElement.cs" t="Include" />
+          <e p="BlueBellUiNotification.cs" t="Include" />
+          <e p="ColorReferenzes.cs" t="Include" />
+          <e p="ConnectionHandler.cs" t="Include" />
+          <e p="DataModel.cs" t="Include" />
+          <e p="MenuHandler.cs" t="Include" />
+          <e p="UiHandler.cs" t="Include" />
+          <e p="WindowGraph.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="BlueBell.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
